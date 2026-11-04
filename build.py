@@ -12,7 +12,7 @@ CONFIG = {
     "person": "Marcin Konieczny",
     "country_en": "Poland",
     "country_pl": "Polska",
-    "email": "EMAIL_DO_UZUPELNIENIA",  # TODO: support e-mail shown in Google Play
+    "email": "quiethours.apps@gmail.com",
     "address": "",  # optional, e.g. "ul. Przykładowa 1, 00-000 Miasto"
     "updated_en": "3 November 2026",
     "updated_pl": "3 listopada 2026",
