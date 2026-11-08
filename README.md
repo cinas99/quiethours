@@ -1,4 +1,4 @@
-# Quiet Hours Studio – strona
+# Quiet Hours Apps – strona
 
 Strona studia i polityki prywatności aplikacji, hostowana za darmo na GitHub Pages.
 

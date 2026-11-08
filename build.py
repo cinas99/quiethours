@@ -7,7 +7,7 @@ import html
 import pathlib
 
 CONFIG = {
-    "studio": "Quiet Hours Studio",
+    "studio": "Quiet Hours Apps",
     "owner": "SOFTWARE DEVELOPER MARCIN KONIECZNY",
     "person": "Marcin Konieczny",
     "country_en": "Poland",
